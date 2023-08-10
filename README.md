@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Physicist. My degree thesis was about quantum chemistry to desing derivates of aminoglycosides, searching for the stable configurations and characterize it's properties as function of a bonding angle.
+
+I'm currently working on my PhD project about Machine Learning to identify pattrons in proteins that are _very_ similar to each other. There is a very close relationship between the function and the structures of proteins. I hope that changes in structure will allow me to predict changes in functions.
+
+I'm currently learning Machine Learning, Quantum Computing and Data Analysis to become an expert as my project needs it. Also, I'm continue studing Quantum Chemistry in my free time, because I love physics and I don't want to go so far beyond that field.
+
+Ask me about physics and chemical structures, that's my speciality.
+
+Fun fact: I love playing Pathfinder, as GM and player.
